@@ -1,0 +1,1 @@
+This is a simple resume site that I built in Bootstrap using a freely available template online. I will furture develope it in the future, but right now it serves as a basic guidline to kick off my freelance career.
